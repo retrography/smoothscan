@@ -1,4 +1,4 @@
-#! /usr/bin/@FONTFORGE_PYTHON_VERSION@
+#! /usr/bin/env @FONTFORGE_PYTHON_VERSION@
 
 #  This file is part of smoothscan.
 #
